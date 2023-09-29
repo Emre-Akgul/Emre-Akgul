@@ -1,3 +1,3 @@
 # Emre Akgul
 Hi there!
-I am sophomore in Bilkent University Computer Science Department
+I am junior in Bilkent University Computer Science Department
