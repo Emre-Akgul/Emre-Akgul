@@ -17,9 +17,6 @@ Currently enhancing transportation logistics at Optiyol as a Part-time Working S
 - **Pathfinding and Sorting Algorithms Visualized**: A Python application using Pygame to visually demonstrate pathfinding and sorting algorithms, enhancing the learning experience.
 
 - **Viral-Epidemic-Simulator**: A Java desktop application using LibGDX to simulate pandemic scenarios and measure the effectiveness of interventions like curfews and masks, incorporating Dijkstra’s algorithm for movement simulation.
-Frameworks/Tools: Django, FastAPI, NumPy/Pandas/Matplotlib, ASP.NET, Spark.
-
-Technical Highlights: Proficient in data structures and algorithms, experienced in optimization methods, and parallel computing.
 
 ## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yourEmail@gmail.com)
