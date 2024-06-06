@@ -1,8 +1,6 @@
 # Emre Akgul
 
-Hello! I'm Emre, a Computer Science student at Bilkent University with a passion for AI, optimization, and data science. Leveraging my advanced skills in Python, Java, and C++, I'm fascinated by the challenges of algorithmic problem-solving and the power of data analytics to drive meaningful insights.
-
-Currently enhancing transportation logistics at Optiyol as a Part-time Working Student, where I apply my knowledge in optimization, data science, data structures and algorithms.
+Hello! I'm Emre, a Computer Science student at Bilkent University with a passion for AI, optimization, and data science. I'm fascinated by the challenges of algorithmic problem-solving and the power of data analytics to drive meaningful insights.
 
 ## 🚀 Projects
 
