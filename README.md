@@ -2,12 +2,7 @@
 
 Hello! I'm Emre, a Computer Science student at Bilkent University with a passion for AI, optimization, and data science. Leveraging my advanced skills in Python, Java, and C++, I'm fascinated by the challenges of algorithmic problem-solving and the power of data analytics to drive meaningful insights.
 
-## 🎓 Education
-- B.S. in Computer Science, Bilkent University
-- High School, Gazi Anatolian High School
-
-## 💼 Experience
-- Currently enhancing transportation logistics at Optiyol as a Part-time Working Student, where I apply my knowledge in optimization, data science, data structures and algorithms.
+Currently enhancing transportation logistics at Optiyol as a Part-time Working Student, where I apply my knowledge in optimization, data science, data structures and algorithms.
 
 ## 🚀 Projects
 
@@ -22,10 +17,6 @@ Hello! I'm Emre, a Computer Science student at Bilkent University with a passion
 - **Pathfinding and Sorting Algorithms Visualized**: A Python application using Pygame to visually demonstrate pathfinding and sorting algorithms, enhancing the learning experience.
 
 - **Viral-Epidemic-Simulator**: A Java desktop application using LibGDX to simulate pandemic scenarios and measure the effectiveness of interventions like curfews and masks, incorporating Dijkstra’s algorithm for movement simulation.
-
-## 🛠 Skills
-Programming Languages: Advanced in Python and Java; proficient in C++, Scala, C#, SQL, HTML/CSS, JavaScript.
-
 Frameworks/Tools: Django, FastAPI, NumPy/Pandas/Matplotlib, ASP.NET, Spark.
 
 Technical Highlights: Proficient in data structures and algorithms, experienced in optimization methods, and parallel computing.
