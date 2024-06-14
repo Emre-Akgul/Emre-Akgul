@@ -3,6 +3,7 @@
 Hello! I'm Emre, a Computer Science student at Bilkent University with a passion for AI, optimization, and data science. I'm fascinated by the challenges of algorithmic problem-solving and the power of data analytics to drive meaningful insights.
 
 ## 🚀 Projects
+- **Chess AI**: A project focused on developing a chess engine by integrating various machine learning, AI, and optimization algorithms to enhance strategic gameplay. Still working on.
 
 - **Fantasy Premier League Recommender System**: Utilized a Random Forest Regressor for player points prediction and a SCIP solver for team selection optimization, significantly surpassing average FPL manager points.
 
@@ -11,6 +12,8 @@ Hello! I'm Emre, a Computer Science student at Bilkent University with a passion
 - **KMeans Clustering Algorithm Project**: Developed in Scala, this project showcases a KMeans clustering algorithm with a focus on performance optimization and algorithm efficiency through parallel execution.
 
 - **BilConnect Second-Hand Sale Website**: Contributed to backend development using C# and ASP.NET, focusing on robust system design, data management with Azure SQL, and user authentication mechanisms.
+
+- **15 Numbers Puzzle**: A Java-based project implementing a 15-number sliding puzzle that includes an automated solver to assist in arranging the tiles in sequential order.
 
 - **Pathfinding and Sorting Algorithms Visualized**: A Python application using Pygame to visually demonstrate pathfinding and sorting algorithms, enhancing the learning experience.
 
