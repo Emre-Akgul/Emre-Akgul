@@ -2,7 +2,7 @@
 
 Hi! I'm Emre, a senior Computer Science student at Bilkent University, working on Deep Learning, AI, and optimization.
 
-## 🚀 Projects
+## Projects
 - **Robot Trajectory Planner**: Implemented SAC and HER algorithms with PyTorch to achieve a 100% success rate in finding trajectories for a robotic arm to reach target objects in a sparse reward environment.
 
 - **UM Game Playing Strength of MCTS Variants**: Designed a predictive model using Gradient Boosting and Random Forest, reducing dimensionality from 813 to 26 features and achieving an RMSE of 0.42.
